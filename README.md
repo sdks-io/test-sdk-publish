@@ -12,15 +12,15 @@ Find out more about Swagger: [http://swagger.io](http://swagger.io)
 If you are building with .NET CLI tools then you can also use the following command:
 
 ```bash
-dotnet add package RepoTestSDK --version 7.7.7
+dotnet add package RepoTestSDK --version 1.1.1
 ```
 
 You can also view the package at:
-https://www.nuget.org/packages/RepoTestSDK/7.7.7
+https://www.nuget.org/packages/RepoTestSDK/1.1.1
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -45,19 +45,19 @@ This API uses `Custom Authentication`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/controllers/pet.md)
-* [Store](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/controllers/store.md)
-* [User](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/controllers/user.md)
+* [Pet](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/controllers/pet.md)
+* [Store](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/controllers/store.md)
+* [User](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/utility-classes.md)
-* [HttpRequest](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/http-request.md)
-* [HttpResponse](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/http-response.md)
-* [HttpStringResponse](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/http-string-response.md)
-* [HttpContext](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/http-context.md)
-* [HttpClientConfiguration](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/http-client-configuration.md)
-* [HttpClientConfiguration Builder](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/http-client-configuration-builder.md)
-* [IAuthManager](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/i-auth-manager.md)
-* [ApiException](https://www.github.com/sdks-io/test-sdk-publish/tree/7.7.7/doc/api-exception.md)
+* [Utility Classes](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/utility-classes.md)
+* [HttpRequest](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/http-request.md)
+* [HttpResponse](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/http-response.md)
+* [HttpStringResponse](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/http-string-response.md)
+* [HttpContext](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/http-context.md)
+* [HttpClientConfiguration](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/http-client-configuration.md)
+* [HttpClientConfiguration Builder](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/http-client-configuration-builder.md)
+* [IAuthManager](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/i-auth-manager.md)
+* [ApiException](https://www.github.com/sdks-io/test-sdk-publish/tree/1.1.1/doc/api-exception.md)
 
